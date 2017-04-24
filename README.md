@@ -2,9 +2,9 @@ Angular 2 based application.
 
 Courses application, service where users can subscribe for some courses , add new and update their skills;
 
-to install project run 'npm i'
+to install project run 'npm i'.
 
-to start project run 'npm start';
+to start project run 'npm start'; (application will starts on ```localhost:9000```)
 to start server API run in separate console 'npm run api'; 
 
 users to login   :
